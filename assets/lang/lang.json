@@ -1,0 +1,235 @@
+{
+  "appName": {
+    "en": "Joonaak Driver",
+    "kh": "ជូនអ្នក"
+  },
+  "today": {
+    "en": "Today",
+    "kh": "ថ្ងៃនេះ"
+  },
+  "delivery": {
+    "en": "Delivery",
+    "kh": "ដឹកជញ្ជូន"
+  },
+  "pickup": {
+    "en": "Pick Up",
+    "kh": "ទទួលឥវ៉ាន"
+  },
+  "more": {
+    "en": "More",
+    "kh": "ផ្សេងៗ"
+  },
+  "notification": {
+    "en": "Notification",
+    "kh": "ពត៍មាន"
+  },
+  "about": {
+    "en": "About Us",
+    "kh": "អំពីយើង"
+  },
+  "setting": {
+    "en": "Setting",
+    "kh": "ការកំណត់"
+  },
+  "go": {
+    "en": "Go",
+    "kh": "ចេញដំណើរ"
+  },
+
+  "signOut": {
+    "en": "Sign Out",
+    "kh": "ចាកចេញ"
+  },
+  "address": {
+    "en": "Address",
+    "kh": "ទីតាំង"
+  },
+  "note": {
+    "en": "Note",
+    "kh": "ចំណាំ"
+  },
+  "editStatus": {
+    "en": "Edit Status",
+    "kh": "កែប្រែស្ថានភាព"
+  },
+  "assigned": {
+    "en": "Driver assigned",
+    "kh": "ឥវ៉ានក្នុនបញ្ជីដឹក"
+  },
+  "Out to pickup": {
+    "en": "Out to Pickup",
+    "kh": "ចេញទៅដឹក"
+  },
+  "Item picked up": {
+    "en": "Item Picked Up",
+    "kh": "បានដឹកហើយ"
+  },
+  "Fail to pickup": {
+    "en": "Fail to Pickup",
+    "kh": "ដឹកបរាជ័យ"
+  },
+  "yes": {
+    "en": "Confirm",
+    "kh": "យល់ព្រម"
+  },
+  "statusChoose": {
+  "en": "Choose Status to Change",
+  "kh": "ជ្រើមរើសស្ថានភាព"
+  },
+  "service": {
+    "en": "Joonaak Service",
+    "kh": "ការិយាល័យជូនអ្នក"
+  },
+  "merchant": {
+    "en": "Merchant",
+    "kh": "ទំនាក់ទំនងហាង"
+  },
+  "minute": {
+    "en": "Min",
+    "kh": "នាទី"
+  },
+  "kilometer": {
+    "en": "Km",
+    "kh": "គីឡូម៉ែត្រ"
+  },
+
+  "merchantMap": {
+    "en": "Merchant Map",
+    "kh": "ទីតាំងហាង"
+  },
+  "call": {
+    "en": "Cal",
+    "kh": "ទំនាក់ទំនង"
+  },
+  "outForDelivery": {
+    "en": "Out For Delivery",
+    "kh": "ឥវ៉ានកំពុងដឹក"
+  },
+  "failToDelivery": {
+    "en": "Fail To Delivery",
+    "kh": "ឥវ៉ានដឹកបរាជ័យ"
+  },
+  "delivered": {
+    "en": "Delivered",
+    "kh": "ដឹកជោកជ័យ"
+  },
+  "halfItem": {
+    "en": "Half Item",
+    "kh": "ឥវ៉ានកន្លះ"
+  },
+  "reappointed": {
+    "en": "Reappoint",
+    "kh": "ណាត់"
+  },
+  "fail": {
+    "en": "Failed",
+    "kh": "បរាជ័យ"
+  },
+  "success": {
+    "en": "Success",
+    "kh": "ជោកជ័យ"
+  },
+  "tomorrow": {
+    "en": "Tomorrow",
+    "kh": "ថ្ងៃស្អែក"
+  },
+  "date": {
+    "en": "Date",
+    "kh": "កាលបរិច្ឆេទ"
+  },
+  "time": {
+    "en": "Time",
+    "kh": "ម៉ោង"
+  },
+  "done": {
+    "en": "Done",
+    "kh": "យល់ព្រម"
+  },
+  "collectionDollar": {
+    "en": "Collection Dollar",
+    "kh": "ប្រាក់ដុល្លារ"
+  },
+  "collectionRiel": {
+    "en": "Collection Riel",
+    "kh": "ប្រាក់ខ្មែរ"
+  },
+  "transfer": {
+    "en": "ABA transfer",
+    "kh": "ផ្ញើរតាម អេប៊ីអេ"
+  },
+  "selectLocation": {
+    "en": "Select Location",
+    "kh": "ជ្រើសរើសទីតាំង"
+  },
+  "locationPhoto": {
+    "en": "Location Phone",
+    "kh": "រូបទីតាំង"
+  },
+  "meet": {
+    "en": "Meet",
+    "kh": "ជួប"
+  },
+  "notMeet": {
+    "en": "Not Meet",
+    "kh": "មិនជួប"
+  },
+  "reason": {
+    "en": "Reason",
+    "kh": "មូលហេតុ"
+  },
+  "lostContact": {
+    "en": "Lost Contact",
+    "kh": "តេមិនចូល"
+  },
+  "notPickupPhone": {
+    "en": "Don't Pickup Phone",
+    "kh": "តេមិនលើក"
+  },
+  "wrongSize": {
+    "en": "Wrong Size",
+    "kh": "ខុសទំហំ"
+  },
+  "wrongItem": {
+    "en": "Wrong Item",
+    "kh": "ខុសឥវ៉ាន"
+  },
+  "wrongColor": {
+    "en": "Wrong Color",
+    "kh": "ខុសពណ៍"
+  },
+  "packageTransfer": {
+    "en": "Package Transportation",
+    "kh": "ផ្ញើរទៅតាមខេត្ត"
+  },
+  "taxi": {
+    "en": "Taxi",
+    "kh": "តាក់សុី"
+  },"bus": {
+    "en": "Bus",
+    "kh": "ឡានក្រុង"
+  },
+  "packageCode": {
+    "en": "Shopping SM",
+    "kh": "កូដឥវ៉ាន"
+  },
+  "fill": {
+    "en": "Fill",
+    "kh": "បំពេញ"
+  },
+  "phone": {
+    "en": "Phone Number",
+    "kh": "លេខទូរសព័្ទឡាន"
+  },
+  "transferFee": {
+    "en": "Transfer Fee",
+    "kh": "ថ្លៃផ្ញើរ"
+  },
+  "cancel": {
+    "en": "Cancel",
+    "kh": "បោះបង់"
+  },
+  "next": {
+    "en": "Next",
+    "kh": "បន្ទាប់"
+  }
+}
